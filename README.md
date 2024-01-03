@@ -34,4 +34,5 @@ Tika apstrādātas visas fotogrāfijas, kuras bija atvertas no mapes ar fotograf
 
 ### Papildus info
 
-_[https://www.instagram.com/vigule_photographer/?utm_source=ig_web_button_share_sheet](url)_
+[http://surl.li/ovkfr](url)
+
