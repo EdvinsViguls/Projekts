@@ -25,7 +25,7 @@ Kodā ir jāaprakstā visas darbības, kuras apstradās fotografijas, tā, lai p
 
 Nevajag aizmirst par to, ka katrs dators strāda ar dažādu ātrumu, tāpēc arī jāpiedoma pie nelielas gaidīšanas
 
-Ja ir nepieciešams, Adobe Photoshop 2024 iestātijumos ierakstīt taustiņu kombinācijas
+Ja ir nepieciešams, Adobe Photoshop 2024 iestātijumos ierakstīt taustiņu kombinācijas, kuras palīdzes atvieglot darbu
 
 ### Rezultāts
 
