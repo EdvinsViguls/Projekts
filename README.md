@@ -4,7 +4,7 @@
 
 Mana mamma ir profesionālais fotogrāfs. Pārsvarā viņa fotografē sportu vai kādus pasākumus pilsētā. Lai fotografijas būtu skaistākas un kvalitatīvākas, tos ir jāapstrādā izmantojot Adobe Photoshop 2024. Tā kā pasakumā fotografijas tiek veiktas vienā ēkā un apgaismojuma, tāpēc tos jāapstrādā vienādi, tikai samainot korekcijas ciparus. Diemžēl nevar apstrādāt visas fotografijas vienlaikus pēc viena šablona, tāpēc pienākas apstrādāt katru fotografiju pa vienai, ierakstot vienus un tos pašus skaitļus. Pārsvarā fotografijas tiek izdarītas vakarā, bet apstrādāt tos vajag tajā pasā vakarā. Tā kā tas aizņem pietiekami daudz lakika, tāpēc mammai vajag sēdēt pus nakti, lai izdarītu darbu. 
 
-Mērķis ir izstrādāt divus programmas kodus izmantojot pywinauto bibliotēku, ka arī citas bibiliotēkas(ja vajag), kas ļauj ātrak par cilvēku apstrādāt visas fotografijas pēc šablona:
+Mērķis ir izstrādāt divus programmas kodus izmantojot pywinauto, pyautogui bibliotēku, kuras palīdz darboties ar programmam, kuras ir instalētās uz datora, ka arī iespēju pekļūt pie tastatūras un laikam, ar kuru palidzību var aizkāvēt programmas darbu, kas ļauj ātrak par cilvēku apstrādāt visas fotografijas pēc šablona:
 
 1. Programmas kods, kas apstrāda
 
